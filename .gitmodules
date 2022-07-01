@@ -1,0 +1,9 @@
+[submodule "PHP-courses"]
+	path = PHP-courses
+	url = https://github.com/JeremieDemas/PHP.git
+[submodule "SNK-website"]
+	path = SNK-website
+	url = https://github.com/JeremieDemas/SNK.git
+[submodule "Timetable-project"]
+	path = Timetable-project
+	url = https://github.com/JeremieDemas/projetEDT.git
